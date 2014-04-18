@@ -1,0 +1,16 @@
+{
+  "name": "flickr_feed_seach",
+  "version": "0.0.0",
+  "main": "flickr.html",
+  "authors": [
+    "pobo380"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
